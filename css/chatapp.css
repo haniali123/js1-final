@@ -1,0 +1,44 @@
+.usersList, .messages {
+    min-height: 100%;
+    border: 1px black solid;
+    padding-left: 0;
+}
+
+.tallify {
+    height: 100%;
+}
+
+.message-input {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color: lightblue;
+    margin-left: -15px;
+}
+
+.usersList li {
+    width: 100%;
+    height: 80px;
+    position: relative;
+    list-style: none;
+    z-index: 1;
+}
+
+.usersList li img {
+    width: 70px;
+    top: 5px;
+    left: 5px;
+    border-radius: 50%;
+    height: 70px;
+    background-color: #e9e9e9;
+    position: absolute;
+    z-index: 2;
+}
+
+.usersList li h5 {
+    position: absolute;
+    left: 90px;
+    top: 10px;
+    font-size: 24px;
+    z-index: 3;
+}
