@@ -51,7 +51,11 @@
         <entry file="file://$PROJECT_DIR$/js/register.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.8445596" vertical-offset="261" max-vertical-offset="840">
+<<<<<<< HEAD
               <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="79" />
+=======
+              <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+>>>>>>> 676285e2de99044bcfb8f885239f0eb5eb382a81
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
                 <marker date="1427344215000" expanded="true" signature="103:322" placeholder="{...}" />
@@ -527,15 +531,26 @@
       <workItem from="1426736461621" duration="1034000" />
       <workItem from="1426737698128" duration="20000" />
       <workItem from="1427158572132" duration="10732000" />
+<<<<<<< HEAD
       <workItem from="1427332348124" duration="9335000" />
+=======
+      <workItem from="1427332348124" duration="9245000" />
+>>>>>>> 676285e2de99044bcfb8f885239f0eb5eb382a81
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="22454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1280" height="725" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="22364000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="23" width="1280" height="725" extended-state="7" />
+>>>>>>> 676285e2de99044bcfb8f885239f0eb5eb382a81
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -825,7 +840,11 @@
     <entry file="file://$PROJECT_DIR$/js/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8445596" vertical-offset="261" max-vertical-offset="840">
+<<<<<<< HEAD
           <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="79" />
+=======
+          <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+>>>>>>> 676285e2de99044bcfb8f885239f0eb5eb382a81
           <folding>
             <element signature="e#0#41#0" expanded="false" />
             <marker date="1427344215000" expanded="true" signature="103:322" placeholder="{...}" />
